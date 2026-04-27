@@ -25,7 +25,7 @@ The goal of this project is to build a **Retrieval-Augmented Generation (RAG)** 
 ### Evaluation
 
 - **Retrieval Performance**  
-  Achieves **Recall@5 = 99.8%**, driven by the fact that queries are derived from the same context distribution.
+  Achieves **Recall@5 = 99.8%**, **MRR = 99.6%**, driven by the fact that queries are derived from the same context distribution.
 
 - **Answer Quality (Optional)**  
   Response quality can be further evaluated using an LLM-as-a-judge framework.
